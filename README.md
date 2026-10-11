@@ -1,6 +1,22 @@
 # GUI Dev Build Auto
 
-[![Donate Ko-fi](https://img.shields.io/badge/Donate-Ko--fi-ff5e5b.svg)](https://ko-fi.com/nobodysan) [![License](https://img.shields.io/github/license/NobodySan97/tch-nginx-gui.svg?style=flat)](https://github.com/NobodySan97/tch-nginx-gui/blob/master/LICENSE) [![Main Repository](https://img.shields.io/badge/Repository-tch--nginx--gui-blue.svg)](https://github.com/NobodySan97/tch-nginx-gui)
+<p align="left">
+  <a href="https://ko-fi.com/nobodysan">
+    <img src="https://img.shields.io/badge/Donate-Ko--fi-ff5e5b?logo=kofi&logoColor=white&style=for-the-badge" alt="Donate Ko-fi" />
+  </a>
+  <a href="https://github.com/NobodySan97/tch-nginx-gui/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/NobodySan97/tch-nginx-gui?style=for-the-badge&color=yellow" alt="License" />
+  </a>
+  <a href="https://github.com/NobodySan97/tch-nginx-gui">
+    <img src="https://img.shields.io/badge/Source-tch--nginx--gui-blue?logo=github&style=for-the-badge" alt="Main Repository" />
+  </a>
+  <a href="https://github.com/NobodySan97/tch-nginx-gui/releases">
+    <img src="https://img.shields.io/github/v/release/NobodySan97/tch-nginx-gui?include_prereleases&logo=github&style=for-the-badge&color=007ec6" alt="Latest Release" />
+  </a>
+  <a href="https://github.com/NobodySan97/tch-nginx-gui/releases">
+    <img src="https://img.shields.io/github/downloads/NobodySan97/tch-nginx-gui/total?logo=github&style=for-the-badge&color=2ea44f" alt="Total Downloads" />
+  </a>
+</p>
 
 This repository contains automated builds and packaged modular archives of the **Technicolor Nginx Custom GUI** maintained by **NobodySan97**.
 
