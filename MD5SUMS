@@ -1,8 +1,8 @@
-21f8e777808a67a5df56912b2cce1492  ./GUI.tar.bz2
-db3892f8b0e9ecb43d2066c034c3aacd  ./GUI_preview.tar.bz2
+9680159f7f3629ee5aeee5df30197d25  ./GUI.tar.bz2
+e131807ceb5f5062d6628aa665f20aae  ./GUI_preview.tar.bz2
 df9312441a15461fbdcd545c98428e5c  ./GUI_dev.tar.bz2
-7b4b203d1e23b1599645c50683e3ad04  ./modular/base.tar.bz2
-0e274df14211f5f8a823af3167f03bf9  ./modular/gui_file.tar.bz2
+70d875ec5b277f7c7a6b41ac7386ea37  ./modular/base.tar.bz2
+829c95c1313f19884ab22e32957ebdfa  ./modular/gui_file.tar.bz2
 7c485a5bc1e182ab4c0c9a3c32e84441  ./modular/ledfw_support-specificDGA.tar.bz2
 f016754975a86a9ca75835fb69c9d10d  ./modular/ledfw_support-specificDGA4131.tar.bz2
 b91c39fbe1655b8114391e553dd34d36  ./modular/ledfw_support-specificDGA4331.tar.bz2
@@ -11,7 +11,7 @@ b5366d0e2b75f4ec48e4d6b68da6e32b  ./modular/ledfw_support-specificTG789.tar.bz2
 d1b6c9cbae440e8359e36955f5cd6902  ./modular/ledfw_support-specificTG799.tar.bz2
 464aca5534e1d021f69597213e4736cf  ./modular/ledfw_support-specificTG800.tar.bz2
 f7c2493cc5eff9781022fe7b3e22612d  ./modular/luci_wireless.tar.bz2
-e7413585a5f0103cc14578b38f234f2a  ./modular/smartphone.tar.bz2
+c960f4f2ba21165f9b3ccc05cdcffaf9  ./modular/smartphone.tar.bz2
 815bc1981296bdde23c47d62abd08c2c  ./modular/telstra_gui.tar.bz2
 6bfd8d55befb71c1b70f7dbbbb51023d  ./modular/traffic_mon.tar.bz2
 93a7d13a6b44dca6aa5480890b906129  ./modular/upgrade-pack-specificDGA.tar.bz2
