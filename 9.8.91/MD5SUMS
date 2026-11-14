@@ -1,8 +1,8 @@
 9680159f7f3629ee5aeee5df30197d25  ./GUI.tar.bz2
-d8c9e5708b0ce8616272c3ee31c2017d  ./GUI_preview.tar.bz2
+628e28c26d3e87def8ff7e7a5102c031  ./GUI_preview.tar.bz2
 df9312441a15461fbdcd545c98428e5c  ./GUI_dev.tar.bz2
-aa90f1c249a9f60cbe9233e4ea278b9a  ./modular/base.tar.bz2
-a58321d2a4f056498641b05623ba5da4  ./modular/gui_file.tar.bz2
+df4f8f17ab8e8da55e233f07e84bb9b0  ./modular/base.tar.bz2
+7cadb6cdbc66daff614448b4fde89576  ./modular/gui_file.tar.bz2
 7c485a5bc1e182ab4c0c9a3c32e84441  ./modular/ledfw_support-specificDGA.tar.bz2
 f016754975a86a9ca75835fb69c9d10d  ./modular/ledfw_support-specificDGA4131.tar.bz2
 b91c39fbe1655b8114391e553dd34d36  ./modular/ledfw_support-specificDGA4331.tar.bz2
